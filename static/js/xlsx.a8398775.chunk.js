@@ -1,2 +1,0 @@
-(this["webpackJsonpatom-analytics-portal-app"]=this["webpackJsonpatom-analytics-portal-app"]||[]).push([[2],{515:function(a,p){},604:function(a,p){},605:function(a,p){}}]);
-//# sourceMappingURL=xlsx.a8398775.chunk.js.map

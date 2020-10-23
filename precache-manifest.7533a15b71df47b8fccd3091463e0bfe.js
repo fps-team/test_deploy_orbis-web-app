@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4881f2f3d21d07cecc75121aeeea10f5",
+    "revision": "653333d660afb34b2b2620228f64380a",
     "url": "/test_deploy_orbis-web-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test_deploy_orbis-web-app/static/css/3.1bc235e7.chunk.css"
   },
   {
-    "revision": "8612978ff845574efbe3",
+    "revision": "aa6e5315c548e05c385a",
     "url": "/test_deploy_orbis-web-app/static/css/main.688fe307.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test_deploy_orbis-web-app/static/js/6.60cfb6b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8612978ff845574efbe3",
-    "url": "/test_deploy_orbis-web-app/static/js/main.39aee643.chunk.js"
+    "revision": "aa6e5315c548e05c385a",
+    "url": "/test_deploy_orbis-web-app/static/js/main.e74a6dcc.chunk.js"
   },
   {
     "revision": "0d76195279c24a15f7e8",

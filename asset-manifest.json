@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test_deploy_orbis-web-app/static/css/main.91592895.chunk.css",
-    "main.js": "/test_deploy_orbis-web-app/static/js/main.cc1bdb36.chunk.js",
-    "main.js.map": "/test_deploy_orbis-web-app/static/js/main.cc1bdb36.chunk.js.map",
+    "main.css": "/test_deploy_orbis-web-app/static/css/main.6ddee466.chunk.css",
+    "main.js": "/test_deploy_orbis-web-app/static/js/main.f31e5d09.chunk.js",
+    "main.js.map": "/test_deploy_orbis-web-app/static/js/main.f31e5d09.chunk.js.map",
     "runtime-main.js": "/test_deploy_orbis-web-app/static/js/runtime-main.d5550c03.js",
     "runtime-main.js.map": "/test_deploy_orbis-web-app/static/js/runtime-main.d5550c03.js.map",
     "xlsx.js": "/test_deploy_orbis-web-app/static/js/xlsx.6de166cf.chunk.js",
     "xlsx.js.map": "/test_deploy_orbis-web-app/static/js/xlsx.6de166cf.chunk.js.map",
     "static/css/3.a4deadbc.chunk.css": "/test_deploy_orbis-web-app/static/css/3.a4deadbc.chunk.css",
-    "static/js/3.5cdfa21c.chunk.js": "/test_deploy_orbis-web-app/static/js/3.5cdfa21c.chunk.js",
-    "static/js/3.5cdfa21c.chunk.js.map": "/test_deploy_orbis-web-app/static/js/3.5cdfa21c.chunk.js.map",
+    "static/js/3.7098a35f.chunk.js": "/test_deploy_orbis-web-app/static/js/3.7098a35f.chunk.js",
+    "static/js/3.7098a35f.chunk.js.map": "/test_deploy_orbis-web-app/static/js/3.7098a35f.chunk.js.map",
     "static/js/4.0c82b0f9.chunk.js": "/test_deploy_orbis-web-app/static/js/4.0c82b0f9.chunk.js",
     "static/js/4.0c82b0f9.chunk.js.map": "/test_deploy_orbis-web-app/static/js/4.0c82b0f9.chunk.js.map",
     "static/js/5.233fddc7.chunk.js": "/test_deploy_orbis-web-app/static/js/5.233fddc7.chunk.js",
@@ -17,11 +17,11 @@
     "static/js/6.8bc7fd7e.chunk.js": "/test_deploy_orbis-web-app/static/js/6.8bc7fd7e.chunk.js",
     "static/js/6.8bc7fd7e.chunk.js.map": "/test_deploy_orbis-web-app/static/js/6.8bc7fd7e.chunk.js.map",
     "index.html": "/test_deploy_orbis-web-app/index.html",
-    "precache-manifest.08c915f6513896487913840c978844ec.js": "/test_deploy_orbis-web-app/precache-manifest.08c915f6513896487913840c978844ec.js",
+    "precache-manifest.1978c77ea3df4702001798117ad158f4.js": "/test_deploy_orbis-web-app/precache-manifest.1978c77ea3df4702001798117ad158f4.js",
     "service-worker.js": "/test_deploy_orbis-web-app/service-worker.js",
     "static/css/3.a4deadbc.chunk.css.map": "/test_deploy_orbis-web-app/static/css/3.a4deadbc.chunk.css.map",
-    "static/css/main.91592895.chunk.css.map": "/test_deploy_orbis-web-app/static/css/main.91592895.chunk.css.map",
-    "static/js/3.5cdfa21c.chunk.js.LICENSE.txt": "/test_deploy_orbis-web-app/static/js/3.5cdfa21c.chunk.js.LICENSE.txt",
+    "static/css/main.6ddee466.chunk.css.map": "/test_deploy_orbis-web-app/static/css/main.6ddee466.chunk.css.map",
+    "static/js/3.7098a35f.chunk.js.LICENSE.txt": "/test_deploy_orbis-web-app/static/js/3.7098a35f.chunk.js.LICENSE.txt",
     "static/js/5.233fddc7.chunk.js.LICENSE.txt": "/test_deploy_orbis-web-app/static/js/5.233fddc7.chunk.js.LICENSE.txt",
     "static/js/6.8bc7fd7e.chunk.js.LICENSE.txt": "/test_deploy_orbis-web-app/static/js/6.8bc7fd7e.chunk.js.LICENSE.txt",
     "static/media/Churn.173ecb00.svg": "/test_deploy_orbis-web-app/static/media/Churn.173ecb00.svg",
@@ -103,8 +103,8 @@
   "entrypoints": [
     "static/js/runtime-main.d5550c03.js",
     "static/css/3.a4deadbc.chunk.css",
-    "static/js/3.5cdfa21c.chunk.js",
-    "static/css/main.91592895.chunk.css",
-    "static/js/main.cc1bdb36.chunk.js"
+    "static/js/3.7098a35f.chunk.js",
+    "static/css/main.6ddee466.chunk.css",
+    "static/js/main.f31e5d09.chunk.js"
   ]
 }

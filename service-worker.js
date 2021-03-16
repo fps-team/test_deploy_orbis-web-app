@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test_deploy_orbis-web-app/precache-manifest.c7eeb6d1df59687a521e0392de294d31.js"
+  "/test_deploy_orbis-web-app/precache-manifest.631a0fd116d5153029b4b82ac7d68b54.js"
 );
 
 self.addEventListener('message', (event) => {
